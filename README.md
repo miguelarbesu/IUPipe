@@ -11,7 +11,6 @@ method often used as a basic benchmark. The main advantages of IUPred 1.0 are:
 
 ---
 <sup>1</sup> As of May 2018, a new Python3-based version of IUPred, named IUPred2A, has been released. 
-An adapted version of this tool will be created at some point.
 
 ## Bibliography
 
